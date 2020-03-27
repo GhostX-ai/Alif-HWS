@@ -18,7 +18,7 @@ namespace HW2603
             if(a<b&&b<c&&c<d){
                 Console.WriteLine("They are growing up");
             }
-            else if(a!=b&&b!=c&&c!=d){
+            else if(a!=b||b!=c||c!=d){
                 u = a <= b && a <= c && a <= d ? a : c <= b && c <= a && c <= d ? c : d <= a && d <= c && d <= b ? d : b <= a && b <= c && b <= d ? b : 0;
                 Console.WriteLine(u);
             }
