@@ -25,8 +25,8 @@ namespace HW2603
             else if(a==b&&b==c&&c==d){
                 Console.WriteLine((a*b*c*d));
             }
-            int g = 5,h = 6,j = 7,k = 0;
-            if(!(g >= b && h >= j)){
+            int g = 6,h = 8,j = 7,k = 0;
+            if(!(g >= h && h >= j)){
                 if(h >= g){
                     k = g;
                     g = h;
