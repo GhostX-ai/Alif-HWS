@@ -1,0 +1,13 @@
+C:\Users\GhostX\Desktop\c#Projects\HW2603\bin\Debug\netcoreapp3.1\HW2603.exe
+C:\Users\GhostX\Desktop\c#Projects\HW2603\bin\Debug\netcoreapp3.1\HW2603.deps.json
+C:\Users\GhostX\Desktop\c#Projects\HW2603\bin\Debug\netcoreapp3.1\HW2603.runtimeconfig.json
+C:\Users\GhostX\Desktop\c#Projects\HW2603\bin\Debug\netcoreapp3.1\HW2603.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\c#Projects\HW2603\bin\Debug\netcoreapp3.1\HW2603.dll
+C:\Users\GhostX\Desktop\c#Projects\HW2603\bin\Debug\netcoreapp3.1\HW2603.pdb
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.dll
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.pdb
+C:\Users\GhostX\Desktop\c#Projects\HW2603\obj\Debug\netcoreapp3.1\HW2603.genruntimeconfig.cache
